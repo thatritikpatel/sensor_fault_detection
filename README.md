@@ -53,7 +53,7 @@ sensor_fault_detection/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/sensor_fault_detection.git
+git clone https://github.com/thatritikpatel/sensor_fault_detection.git
 cd sensor_fault_detection
 ```
 
