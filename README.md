@@ -206,5 +206,5 @@ The project implements a comprehensive data pipeline:
 
 
 ## Contact
-- Ritik Patel - [ritik.patel129@gmail.com]
+- Ritik Patel - [https://www.linkedin.com/in/thatritikpatel/]
 - Project Link: [https://github.com/thatritikpatel/sensor_fault_detection/tree/main]
